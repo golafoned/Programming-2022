@@ -31,5 +31,5 @@ int main()
      float Geometric_Mean = pow(First_Number + Second_Number, 0.5);
      cout << endl
           << "Arithmetic mean :" << Arithmetic_Mean << endl;
-     cout << "Geometric mean :" << Geometric_Mean << endl;
+     cout << "Geometric mean: " << Geometric_Mean << endl;
 }
