@@ -1,0 +1,10 @@
+gas Smolyak 3 100.50
+gas Movchko 2 85.20
+water Dutka 5000 10 50.00
+water Yak 7000 15 75.00
+water Mulyarchik 4000 8 40.00
+gas Dudynets 1 45.60
+water Dudchak 6500 13 65.00
+gas Konoshuk 4 150.00
+water Fedornyak 6000 12 60.00
+gas Fedan 2 75.30

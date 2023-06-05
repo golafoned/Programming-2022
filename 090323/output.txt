@@ -1,0 +1,13 @@
+Sorted by price computers:
+1. Asus 600 17 16
+2. Lenovo 799 15.6 8
+3. Dell 999.99 office
+4. Dell 1200 gaming
+5. Microsoft 2000 24
+
+
+Total price = 5598.99$
+
+All Dell's Stationary:
+Dell 999.99 office
+Dell 1200 gaming

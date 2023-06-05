@@ -1,0 +1,5 @@
+Yak 7000 15 75
+Dudchak 6500 13 65
+Fedornyak 6000 12 60
+Dutka 5000 10 50
+Mulyarchik 4000 8 40

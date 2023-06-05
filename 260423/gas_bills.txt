@@ -1,0 +1,5 @@
+Konoshuk 150 4
+Smolyak 100 3
+Movchko 85 2
+Fedan 75 2
+Dudynets 45 1
